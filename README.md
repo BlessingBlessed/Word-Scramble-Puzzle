@@ -1,5 +1,7 @@
-This site is designed to be fun, easy to navigate, and engaging, encouraging users to improve their vocabulary and cognitive skills while enjoying the game.
- Main Features:
+# Word Scramble Site
+ Welcome to the Word Scramble Site! This web application allows users to have fun unscrambling words and improving their vocabulary. 
+ This site is designed to be fun, easy to navigate, and engaging, encouraging users to improve their vocabulary and cognitive skills while enjoying the game.
+ ## Main Features:
 1. Home Page
    Game Introduction: Brief description and rules of the game.
    Start Game Button: Quick access to begin playing.
@@ -16,7 +18,19 @@ This site is designed to be fun, easy to navigate, and engaging, encouraging use
   Intuitive Layout: Easy-to-use interface with clear buttons and instructions.
   Attractive: Engaging visuals and animations to enhance user experience.
 
- Technology Stack:
- Frontend: HTML, CSS, JavaScript (React/Vue.js)
+### Technology Stack:
+ Frontend: HTML, CSS, JavaScript 
+ 
+ HTML- Defines the layout.
+ 
+ CSS-Makes it look good and responsive
+ 
+ Javascript-Handles the game logic
 
 
+
+
+
+
+Enjoy unscrambling!
+ 
