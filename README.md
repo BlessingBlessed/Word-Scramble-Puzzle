@@ -63,8 +63,9 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 ### Content 
 
-- Instructions on how to implement word scrabmble was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Instructions on how to implement word scrabmble was taken from codewithmosh.com, geeksforgeeks.org
+- 
+-  - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
