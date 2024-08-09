@@ -37,8 +37,8 @@
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
--JSS
-- No errors were returned when passing through the official jshint.com (https://jshint.com/)
+- JSS
+ - No errors were returned when passing through the official jshint.com (https://jshint.com/)
 ### Unfixed Bugs
 
 Audio file is supposed to play as page loads,
