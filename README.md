@@ -52,7 +52,7 @@ Audio file is supposed to play as page loads,
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+ 
 
 
 ## Credits 
